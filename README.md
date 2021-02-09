@@ -1,16 +1,32 @@
-### Hi there 👋
+## In the Name of God, the Merciful, the Magnificent
 
-<!--
-**ali-nazari/ali-nazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ali Nazari is a Senior Research Assistant in 👯 Image Processing (IPL) and <a href=‘https://gmlg.github.io’>Graph Machine Learning (GML)</a> Laboratories, <a href=‘http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx’>Faculty of Computer Science and Engineering</a>, Data Science Center,  Shahid Beheshti University, Tehran, Iran 
 
-Here are some ideas to get you started:
+- 📫 How to reach me: ali.nazari.ir@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 My Repositories
+
+### Deep Learning
+
+- [General Deep Learning](https://github.com/ali-nazari/deeplearning)
+- [Graph Neural Network](https://github.com/ali-nazari/deeplearning/tree/master/gnn)
+- [Physics-Informed Deep Learning](https://github.com/ali-nazari/deeplearning/tree/master/Physics-Informed%20Deep%20Learning)
+- [Applications of DL](https://github.com/ali-nazari/deeplearning/tree/master/applications)
+- [Useful Notebooks](https://github.com/ali-nazari/deeplearning/tree/master/notebook)
+
+### Data Science and Machine Learning
+
+- [Datascience materials](https://github.com/ali-nazari/Datascience-MachineLearning)
+- [Machine Learning materials](https://github.com/ali-nazari/Datascience-MachineLearning/blob/master/machine_learning.md)
+- [Image Processing materials](https://github.com/ali-nazari/Datascience-MachineLearning/blob/master/image-processing.md)
+
+### Courses
+ - [Introduction to Database Systems](https://github.com/ali-nazari/databases)
+
+### Latex
+
+- [Pros and Cons of Tex Editors related to the Persian Writing](https://github.com/ali-nazari/tex-latex)
+
+## General Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ali-nazari&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&card_width=10)
