@@ -2,9 +2,11 @@
 
 - 🔭 <b>Ali Nazari</b> is a Senior Research Assistant in 👯 Image Processing (IPL) and [Graph Machine Learning (GML)](https://gmlg.github.io) Laboratories, [Faculty of Computer Science and Engineering](http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx), Data Science Center,  Shahid Beheshti University, Tehran, Iran 
 
-- 📫 How to reach me: ali.nazari.ir@gmail.com
-- [Linkedin](https://nl.linkedin.com/in/alinazari-sbu)
-- Twitter: @alinazari_sbu
+- 📫 How to reach me: 
+   - ali.nazari.ir@gmail.com
+   - Twitter: @alinazari_sbu
+   - [Linkedin](https://nl.linkedin.com/in/alinazari-sbu)
+
 
 ### 🌱 My Repositories
 
