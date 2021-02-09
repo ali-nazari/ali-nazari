@@ -1,6 +1,6 @@
-## In the Name of God, the Merciful, the Magnificent
+### In the Name of God, the Merciful, the Magnificent
 
-- 🔭 Ali Nazari is a Senior Research Assistant in 👯 Image Processing (IPL) and <a href=‘https://gmlg.github.io’>Graph Machine Learning (GML)</a> Laboratories, <a href=‘http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx’>Faculty of Computer Science and Engineering</a>, Data Science Center,  Shahid Beheshti University, Tehran, Iran 
+- 🔭 <b>Ali Nazari</b> is a Senior Research Assistant in 👯 Image Processing (IPL) and [Graph Machine Learning (GML)](https://gmlg.github.io) Laboratories, [Faculty of Computer Science and Engineering](http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx), Data Science Center,  Shahid Beheshti University, Tehran, Iran 
 
 - 📫 How to reach me: ali.nazari.ir@gmail.com
 
