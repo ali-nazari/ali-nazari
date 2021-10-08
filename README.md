@@ -25,6 +25,7 @@
 - 🕊️[Image Processing materials](https://github.com/ali-nazari/Datascience-MachineLearning/blob/master/image-processing.md)
 
 #### Courses
+ - [Computer Workshops](https://github.com/ali-nazari/computer-workshop)
  - [Introduction to Database Systems](https://github.com/ali-nazari/databases)
 
 #### Latex
