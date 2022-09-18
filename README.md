@@ -25,6 +25,7 @@
 - 🕊️[Image Processing materials](https://github.com/ali-nazari/Datascience-MachineLearning/blob/master/image-processing.md)
 
 #### Courses
+ - [Fundamentals of Computer Vision and Digital Image Processing](https://github.com/ali-nazari/dip)
  - [Computer Workshops](https://github.com/ali-nazari/computer-workshop)
  - [Introduction to Database Systems](https://github.com/ali-nazari/databases)
 
