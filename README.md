@@ -1,6 +1,6 @@
 ### In the name of God, the Most Gracious, the Most Merciful
 
-- 🔭 <b>Ali Nazari</b> is a Senior Research Assistant in 👯 Image Processing (IPL) and [Graph Machine Learning (GML)](https://gmlg.github.io) Laboratories, [Faculty of Computer Science and Engineering](http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx), Data Science Center,  Shahid Beheshti University, Tehran, Iran 
+- 🔭 <b>Ali Nazari</b> is a Senior Research Assistant in 👯 Image Processing (IPL) Laboratory, [Faculty of Computer Science and Engineering](http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx),  Shahid Beheshti University, Tehran, Iran 
 
 - 📫💛 How to reach me: 
    - ali.nazari.ir@gmail.com
