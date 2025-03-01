@@ -1,5 +1,3 @@
-### In the name of God, the Most Gracious, the Most Merciful
-
 - 🔭 <b>Ali Nazari</b> is a Senior Research Assistant in 👯 the Image Processing Laboratory (IPL) , [Faculty of Computer Science and Engineering](http://en.sbu.ac.ir/Faculties/ComputerEngineering/Pages/default.aspx),  Shahid Beheshti University, Tehran, Iran 
 
 - 📫💛 How to reach me: 
